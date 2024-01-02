@@ -45,6 +45,6 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
 
-Thanks for stopping by! 😊
-
 ![GIF](https://i.gifer.com/JXA0.gif)
+
+Thanks for stopping by! 😊
