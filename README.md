@@ -28,13 +28,12 @@ I work with a variety of technologies to bring ideas to life. Here are some of m
 
 Let's connect and discuss interesting ideas! You can find me on:
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Personal Website/Blog](Your Website URL)
+- [LinkedIn](https://www.linkedin.com/in/dubeyayushi-ad/)
+- [Portfolio Website](https://dubeyayushi.github.io/Portfolio/)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyayushi&show_icons=true&hide=contribs,prs&theme=dark)
 
 ## 🤝 Let's Collaborate
 
