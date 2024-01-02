@@ -48,7 +48,7 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyayushi&show_icons=true&hide=contribs,prs&theme=gradient)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyayushi&show_icons=true&hide=contribs,prs&theme=gruvbox)
 
 ## 🤝 Let's Collaborate
 
