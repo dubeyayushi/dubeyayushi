@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm an aspiring web developer and competitive prog
 
 </div>
 
-<img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
+<div style="text-align: center;">
+  <img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
+</div>
 
 ## 💻 Technologies & Tools
 
