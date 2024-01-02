@@ -12,23 +12,29 @@ Welcome to my GitHub profile! I'm an aspiring web developer and competitive prog
 
 I work with a variety of technologies to bring ideas to life. Here are some of my favorites:
 
-<!-- Languages -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFDD00?style=flat&logo=javascript&logoColor=black)
-![Python](![image](https://github.com/dubeyayushi/dubeyayushi/assets/119059967/b793023c-63cd-402d-9867-68ebabb1920e)
-)
-<!-- Add more languages -->
+### Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-<!-- Frameworks -->
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-<!-- Add more frameworks -->
+### Libraries and Frameworks
+- ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+- ![A-Frame](https://img.shields.io/badge/-A--Frame-FFC100?style=flat&logo=a-frame&logoColor=white)
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-<!-- Add more tools -->
-
-
+### Developer Tools
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+- ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 
 
