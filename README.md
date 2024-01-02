@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm an aspiring web developer and competitive prog
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 Fun fact: When I'm not immersed in code, you can catch me finding solace in the harmony of nature and the melody of music. Or sleeping 💤
 
- ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+ <p align="right">
+   <img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
+ </p>
 
 ## 💻 Technologies & Tools
 
