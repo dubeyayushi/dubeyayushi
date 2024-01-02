@@ -1,4 +1,4 @@
-# Hi there, I'm Ayushi! 👋
+<h1 align="center">Hi there, I'm Ayushi! ✨ </h1>
 
 Welcome to my GitHub profile! I'm an aspiring web developer and competitive programmer and a machine learning and AR VR enthusiast. My mission is to simplify complexity, write beautiful code, and share knowledge to empower the next generation of developers.
 
@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm an aspiring web developer and competitive prog
 
 - 🎓 Currently a sophomore, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women.
 - 🌱 I'm constantly learning and exploring new technologies.
-- 💡 Fun fact: When I'm not immersed in code, you can catch me finding solace in the harmony of nature and the melody of music. Or sleeping 💤 
+- 💡 Fun fact: When I'm not immersed in code, you can catch me finding solace in the harmony of nature and the melody of music. Or sleeping 💤
+
+ ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 💻 Technologies & Tools
 
@@ -29,8 +31,9 @@ I work with a variety of technologies to bring ideas to life. Here are some of m
 Let's connect and discuss interesting ideas! You can find me on:
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square&logo=html5&logoColor=white)](https://dubeyayushi.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubeyayushi-ad/)
 [![Mail](https://img.shields.io/badge/Mail-Send%20Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adayushi232@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubeyayushi-ad/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushidubey448/)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ayushidubey)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ayushi_code)
@@ -44,7 +47,5 @@ Let's connect and discuss interesting ideas! You can find me on:
 ## 🤝 Let's Collaborate
 
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
-
-![GIF](https://i.gifer.com/JXA0.gif)
 
 Thanks for stopping by! 😊
