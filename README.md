@@ -14,7 +14,8 @@ I work with a variety of technologies to bring ideas to life. Here are some of m
 
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFDD00?style=flat&logo=javascript&logoColor=black)
-![Python](https://icons8.com/icon/l75OEUJkPAk4/python)
+![Python](![image](https://github.com/dubeyayushi/dubeyayushi/assets/119059967/b793023c-63cd-402d-9867-68ebabb1920e)
+)
 <!-- Add more languages -->
 
 <!-- Frameworks -->
