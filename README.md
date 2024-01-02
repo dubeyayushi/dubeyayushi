@@ -4,13 +4,15 @@ Welcome to my GitHub profile! I'm an aspiring web developer and competitive prog
 
 ## 🚀 About Me
 
+<div style="float: left; margin-right: 20px;">
+  
 - 🎓 Currently a sophomore, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 Fun fact: When I'm not immersed in code, you can catch me finding solace in the harmony of nature and the melody of music. Or sleeping 💤
 
-<div align="right">
-  <img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
 </div>
+
+<img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
 
 ## 💻 Technologies & Tools
 
