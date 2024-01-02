@@ -50,7 +50,7 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeyayushi&show_icons=true&hide=contribs,prs&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyayushi&layout=donut&theme=radical)](https://github.com/dubeyayushi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyayushi&layout=compact&theme=radical)](https://github.com/dubeyayushi/github-readme-stats)
 
 ## 🤝 Let's Collaborate
 
