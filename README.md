@@ -47,4 +47,4 @@ I'm always open to collaboration and new opportunities. If you have a project or
 
 Thanks for stopping by! 😊
 
-[!GIF](https://i.gifer.com/JXA0.gif)
+![GIF](https://i.gifer.com/JXA0.gif)
