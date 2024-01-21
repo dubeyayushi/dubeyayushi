@@ -61,7 +61,6 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
 ## 🎧 Currently Listening
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=knptfatt93lrdsh1trfeisqi3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
