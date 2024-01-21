@@ -56,6 +56,9 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dubeyayushi&theme=radical)](https://git.io/streak-stats)
 
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dubeyayushi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖋️ Random Dev Quote
 
