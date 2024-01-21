@@ -58,7 +58,7 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dubeyayushi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dubeyayushi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖋️ Random Dev Quote
 
