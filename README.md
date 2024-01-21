@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayushi! ✨ </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ayushi! ✨ </h1>
 
 Welcome to my GitHub profile! I'm an aspiring web developer and competitive programmer and a machine learning and AR VR enthusiast. My mission is to simplify complexity, write beautiful code, and share knowledge to empower the next generation of developers.
 
