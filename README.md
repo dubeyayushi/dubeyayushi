@@ -54,6 +54,8 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyayushi&layout=compact&theme=radical)](https://github.com/dubeyayushi/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dubeyayushi&theme=radical)](https://git.io/streak-stats)
+
 ## 🤝 Let's Collaborate
 
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
