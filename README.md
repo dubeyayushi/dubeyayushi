@@ -68,6 +68,11 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=knptfatt93lrdsh1trfeisqi3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+## 🐍 Watch a snake eat my contribution graph
+
+![Snake animation](https://github.com/dubeyayushi/dubeyayushi/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🤝 Let's Collaborate
 
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
