@@ -56,6 +56,11 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dubeyayushi&theme=radical)](https://git.io/streak-stats)
 
+
+## 🖋️ Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🤝 Let's Collaborate
 
 I'm always open to collaboration and new opportunities. If you have a project or idea you'd like to discuss, feel free to reach out!
