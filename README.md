@@ -32,7 +32,9 @@ I work with a variety of technologies to bring ideas to life. Here are some of m
 
 ### 🛠 Libraries and Frameworks
 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?flat&logo=chakra-ui&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) 
@@ -58,7 +60,6 @@ Let's connect and discuss interesting ideas! You can find me on:
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-View-9cf?style=flat-square&logo=html5&logoColor=white)](https://dubeyayushi.github.io/Portfolio/)
 [![Mail](https://img.shields.io/badge/Mail-Send%20Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adayushi232@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubeyayushi-ad/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushidubey448/)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ayushidubey)
