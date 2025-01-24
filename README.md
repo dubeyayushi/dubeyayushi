@@ -64,7 +64,6 @@ Let's connect and discuss interesting ideas! You can find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushidubey448/)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/ayushidubey)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ayushi_code)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/_ad/)
 
 
 ## 📈 GitHub Stats
